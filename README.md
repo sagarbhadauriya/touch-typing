@@ -28,8 +28,6 @@ The Typing Test App is built using the following technologies:
 
 - **Redux**: A predictable state container for JavaScript apps. Redux helps manage the app's global state, making it easier to handle data flow and application state changes.
 
-- **TypeScript**: A statically typed superset of JavaScript that enhances code maintainability and provides better tooling for code editing and error detection.
-
 - **HTML5**: The latest version of the Hypertext Markup Language, used for structuring the app's content.
 
 - **CSS3**: The latest version of Cascading Style Sheets, used for styling and layout.
@@ -41,13 +39,13 @@ To run the Typing Test App locally, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/typing-test-app.git
+   git clone https://github.com/your-username/touch-typing.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd typing-test-app
+   cd touch-typing
    ```
 
 3. Install the dependencies:
@@ -98,7 +96,7 @@ This application is deployed on Netlify. Check it out [https://touch-touch-typin
 
 ## Screenshots
 
-<img width="940" alt="image" src="https://github.com/sagarbhadauriya/touch-typing/assets/72752355/99c8ea0d-94da-4095-8f83-f22d740722e3">
+<img width="639" alt="image" src="https://github.com/sagarbhadauriya/touch-typing/assets/72752355/f98c42b0-bb7f-4e6b-94b2-bea43ec2eb3e">
 
 ## License
 
